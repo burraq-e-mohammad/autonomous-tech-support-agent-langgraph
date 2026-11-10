@@ -1,0 +1,14 @@
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local generated runtime artifacts
+support_demo.db
+faiss_index/
